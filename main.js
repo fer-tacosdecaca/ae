@@ -1,7 +1,7 @@
 prediction_1 = ""
 prediction_2 = ""
 
-Webcam.set({with: 300, height: 300, image_formart: "png", png_quality: 90, flip_horiz: true})
+Webcam.set({with: 300, height: 300, image_formart: "png", png_quality: 90,flip_horiz: true})
 
 
 
